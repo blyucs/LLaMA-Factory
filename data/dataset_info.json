@@ -1,4 +1,20 @@
 {
+  "physics-tulu3-A": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/tulu_v3_json/A_tulu3_all.jsonl",
+    "formatting": "alpaca"
+  },
+  "physics-tulu3-B": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/tulu_v3_json/B_tulu3_all.jsonl",
+    "formatting": "alpaca"
+  },
+  "lichuan-ocean-instruct": {
+    "file_name": "/root/database/mount/a100_nas/peixunban/002924_lichuan/sft/sft_OceanInstruct.jsonl",
+    "formatting": "alpaca"
+  },
+  "lichuan-ocean-benchmark": {
+    "file_name": "/root/database/mount/a100_nas/peixunban/002924_lichuan/sft/sft_OceanBench.txt",
+    "formatting": "alpaca"
+  },
   "identity": {
     "file_name": "identity.json"
   },
