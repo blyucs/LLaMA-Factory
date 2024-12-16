@@ -1,0 +1,10 @@
+# model_name_or_path: /root/database/mount/a100_nas/peixunban/002924_lichuan/sft_models/v1203/
+#model_name_or_path: /root/database/mount/a100_nas/peixunban/002924_lichuan/llm_models/olmo1b_2024-12-03_10-08/step42000-unsharded/hf_model/
+#model_name_or_path: /root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/sft_pt/olmo1b_2024_12_09_01_44_49/checkpoint-7500
+# model_name_or_path: /root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/sft_pt/olmo1b_2024_12_09_01_44_49_phy_math/checkpoint-5000
+#model_name_or_path: /root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/sft_pt/olmo1b_sft_pt_2024_12_13_17_10_42
+model_name_or_path: /root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/sft_pt/olmo1b_sft_pt_2024_12_15_16_56_58
+template: alpaca
+infer_backend: huggingface
+finetuning_type: full
+stage: sft

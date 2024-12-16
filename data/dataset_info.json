@@ -1,18 +1,34 @@
 {
-  "physics-tulu3-A": {
-    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/tulu_v3_json/A_tulu3_all.jsonl",
+  "tulu3-A": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/tulu_v3_json/A_tulu3_all.jsonl",
     "formatting": "alpaca"
   },
-  "physics-tulu3-B": {
-    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/tulu_v3_json/B_tulu3_all.jsonl",
+  "tulu3-B": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/tulu_v3_json/B_tulu3_all.jsonl",
     "formatting": "alpaca"
   },
-  "lichuan-ocean-instruct": {
-    "file_name": "/root/database/mount/a100_nas/peixunban/002924_lichuan/sft/sft_OceanInstruct.jsonl",
+  "physics": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/physics-20003.jsonl",
     "formatting": "alpaca"
   },
-  "lichuan-ocean-benchmark": {
-    "file_name": "/root/database/mount/a100_nas/peixunban/002924_lichuan/sft/sft_OceanBench.txt",
+  "physics-rewrite": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/physics-20003-rewrite.jsonl",
+    "formatting": "alpaca"
+  },
+  "physics-arxiv": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/physics-arxiv-30231.jsonl",
+    "formatting": "alpaca"
+  },
+  "tulu-3-math": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/tulu-3-personas-math-149K.jsonl",
+    "formatting": "alpaca"
+  },
+  "tulu-3-math-grade": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/tulu-3-personas-math-grade-50k.jsonl",
+    "formatting": "alpaca"
+  },
+   "biology": {
+    "file_name": "/root/a100_nas_lvbo/peixunban/002754_lvbo/SFT/00_dataset/biology-20004.jsonl",
     "formatting": "alpaca"
   },
   "identity": {
